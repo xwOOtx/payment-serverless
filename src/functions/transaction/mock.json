@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "[{\"transactionId\": \"102121\", \"orderId\": \"1220\", \"merchantId\": \"ZXC\", \"merchantType\": \"Food\", \"value\": \"10000\",}]"
+}
